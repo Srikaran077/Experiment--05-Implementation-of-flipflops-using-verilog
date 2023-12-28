@@ -1,4 +1,4 @@
-Developed by: SRIKARAM.M<br>
+Developed by: SRIKARAN M<br>
 Refrence number:23010618
 
 # Experiment--05-Implementation-of-flipflops-using-verilog
